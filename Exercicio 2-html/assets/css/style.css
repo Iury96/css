@@ -1,0 +1,76 @@
+.body{
+    background-color: rgb(19, 48, 31);
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cabecalho-texto{
+    display: flex;
+    justify-content: flex-start;
+  
+}
+
+
+.titulo-main{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.texto-main{
+    display: flex;
+    justify-content: center;    
+    
+
+}
+
+.section-imagem{
+    display: flex;
+    justify-content: center;
+}
+
+.main-imagem{
+    display: flex;
+    justify-content: center;
+    width: 900px;    
+    
+}
+
+.footer-imagem{
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    width: 80%;
+    height: 25px;
+}
+
+.rodape-imagem{
+    display: flex;
+    width: 50px;
+    height: 50px;
+    padding: 35px;
+}
+.rodape-texto{
+    display: flex;
+    position: absolute;
+    padding: 40px;
+   color: aliceblue;
+}
+.rodape-texto-contato{
+    display: flex;
+    position: absolute;
+    padding: 150px;
+    color: aliceblue;
+    padding-left: 40px;
+    
+}
+
+.contato-imagem{
+    display: flex;
+    justify-content: center;
+    width: 1300px;    
+    padding: 100px;
+    
+}
